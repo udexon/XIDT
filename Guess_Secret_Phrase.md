@@ -12,6 +12,10 @@ In this example, we use 2 tabs of Firefox browser to simulate two persons -- Ali
 
 http://localhost/XIDT/client.html
 
+<img src="https://github.com/udexon/XIDT/blob/master/png/01_start.png" width=600>
+
+Most of the input and output will be performed in the browser consoles, shown on the right side of the screenshot.
+
 2. Alice and Chris execute a user initialisation script, respectively:
 
 ```js
@@ -20,7 +24,9 @@ F("Alice iu:")
 ```js
 F("Chris iu:")
 ```
-<img src="https://github.com/udexon/XIDT/blob/master/png/01_start.png" width=600>
+
+(We shall leave the detailed explanations for the Phos script to another article, just to not clutter this entry level article.)
+
 
 https://github.com/udexon/XIDT/blob/master/png/02_S.js
 
