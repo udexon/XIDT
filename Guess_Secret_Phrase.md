@@ -1,6 +1,6 @@
 <img src="https://github.com/udexon/XIDT/blob/master/png/01_start.png" width=600>
 
-<img src="https://github.com/udexon/XIDT/blob/master/png/02_S.js" width=600>
+https://github.com/udexon/XIDT/blob/master/png/02_S.js
 
 <img src="https://github.com/udexon/XIDT/blob/master/png/02_init_user.png" width=600>
 
