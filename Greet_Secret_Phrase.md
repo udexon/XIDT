@@ -61,10 +61,6 @@ Similar items exist in the stack in Chris' browser console.
 
 <img src="https://github.com/udexon/XIDT/blob/master/png/05_alice_encrypt.png" width=600>
 
-<img src="https://github.com/udexon/XIDT/blob/master/png/05_chris_S.png" width=600>
-
-<img src="https://github.com/udexon/XIDT/blob/master/png/05_chris_S_highlight.png" width=600>
-
 
 6. Chris reimport his own public and private keys saved on the stack earlier.
 
