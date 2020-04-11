@@ -8,6 +8,10 @@ We believe many communities worldwide would have folk legends similar this of Ch
 
 In this example, we use 2 tabs of Firefox browser to simulate two persons -- Alice and Chris.
 
+Each of Alice and Chris loads a web page, which contains JavaScript libraries for RSA encryption and WebSocket messaging:
+
+http://localhost/XIDT/client.html
+
 <img src="https://github.com/udexon/XIDT/blob/master/png/01_start.png" width=600>
 
 https://github.com/udexon/XIDT/blob/master/png/02_S.js
