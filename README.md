@@ -1,11 +1,12 @@
 # XIDT
 ID-less transactions
 
-3. ID-less Transactions XIDT
+If Free Software Revolution 1.0 is the creation of GNU Linux tools and the subsequent development that created the Internet and mobile infrastructure that we have today, we shall define Free Software Revolution as free software programmers  CLONING existing mobile and Internet platforms owned by MAGAF (Microsoft Apple Google Amazon Facebook) and other tech giants, to create platforms that are owned by EVERYONE, not single corporations. Metashellet and ID-less transactions will gvie rise to Cloudless Computing to realize Free Software Revolution 2.0.
 
-i) Concerning ID-less transactions, how I can create a new type of blockchain based on ID-less transactions.
+ID-less transactions: the Unix User ID convention, based on symmetric cryptography, has shaped perhaps all of today authentication systems by way of GNU Linux free software movement. Although asymmetric cryptography has been widely used in many applications, e.g. cryptocurrencies, they are not completely removed from Unix style user ID, perhaps due to preconditioned mindset of the developers. Also based on asymmetric cryptography, our ID-less transactions protocol (XIDT) is a radical creation that departs completely from the principles and philosophies of Unix User ID, making it possible to serve as an intermediate and interface system amongst existing centralized Unix style authentication systems.
 
-Here are some notes about my current plan:
+#### A new type of blockchain based on ID-less transactions
+
 
 •ID-less transactions: recruit collaborators (volunteer or incentivized) online.
 
