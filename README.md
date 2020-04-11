@@ -9,6 +9,13 @@ If Free Software Revolution 1.0 is the creation of GNU Linux tools and the subse
 The Unix User ID convention, based on symmetric cryptography, has shaped perhaps all of today authentication systems by way of forking software from the GNU Linux free software movement. Although asymmetric cryptography has been widely used in many applications, e.g. cryptocurrencies, browser session authentication etc., they are not completely removed from Unix style user ID, perhaps due to preconditioned mindset of the developers, who are too used to the Unix User ID convention. Although also based on asymmetric cryptography, our ID-less transactions protocol (XIDT) is a radical creation that departs completely from the principles and philosophies of Unix User ID, making it possible to serve as an intermediate and interface system amongst existing centralized Unix style authentication systems, as well as an ultimate protection of personal privacy, die to its distributed ownership and pactically uncrackable nature. 
 
 
+#### XIDT Demo
+
+https://github.com/udexon/DatongToken/blob/master/Datong_3_in_1.md
+
+https://github.com/udexon/XIDT/tree/master/XIDT
+
+
 #### A new type of blockchain based on ID-less transactions
 
 - ID-less transactions: recruit collaborators (volunteer or incentivized) online.
