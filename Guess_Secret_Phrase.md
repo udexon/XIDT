@@ -2,6 +2,12 @@ We suppose the concept of ID-less transactions is both a novel procedure and yet
 
 In this article, we shall illustrate one of the most fundamental, if not the most fundamental operation that can be performed with ID-less transaction, called "Guess-a-Secret-Phrase" (GASP), which readers may compare to various legends concerning cryptography, and could be used as a building block for more sophiticated operations.
 
+We believe many communities worldwide would have folk legends similar this of Chinese origin:
+
+- Agents of secret societies would greet each other with secret phrases, thus authenticating their identities.
+
+In this example, we use 2 tabs of Firefox browser to simulate two persons -- Alice and Chris.
+
 <img src="https://github.com/udexon/XIDT/blob/master/png/01_start.png" width=600>
 
 https://github.com/udexon/XIDT/blob/master/png/02_S.js
