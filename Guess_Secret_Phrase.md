@@ -27,18 +27,27 @@ F("Chris iu:")
 
 (We shall leave the detailed explanations for the Phos script to another article, just to not clutter this entry level article.)
 
+Alice and Chris then examine the stack which contains the results of executing the script, as shown in the link and screenshot below:
 
 https://github.com/udexon/XIDT/blob/master/png/02_S.js
 
 <img src="https://github.com/udexon/XIDT/blob/master/png/02_init_user.png" width=600>
 
+3. Chris imports public key of Alice (PBKA) and encrypts a secret phrase ("chris_love_cookie"), and sends the encrypted message to Alice.
+
+<img src="https://github.com/udexon/XIDT/blob/master/png/03_chris_encrypt.png" width=600>
+
 <img src="https://github.com/udexon/XIDT/blob/master/png/03_alice_S.png" width=600>
 
 <img src="https://github.com/udexon/XIDT/blob/master/png/03_alice_S_highlight.png" width=600>
 
-<img src="https://github.com/udexon/XIDT/blob/master/png/03_chris_encrypt.png" width=600>
+
+4. Alice decrypts the message using her own private key (PVKA).
 
 <img src="https://github.com/udexon/XIDT/blob/master/png/04_alice_decrypt.png" width=600>
+
+
+5. Alice imports public key of Chris (PBKC) to encrypt the same message and sends it back to Chris.
 
 <img src="https://github.com/udexon/XIDT/blob/master/png/05_alice_encrypt.png" width=600>
 
@@ -46,8 +55,14 @@ https://github.com/udexon/XIDT/blob/master/png/02_S.js
 
 <img src="https://github.com/udexon/XIDT/blob/master/png/05_chris_S_highlight.png" width=600>
 
-<img src="https://github.com/udexon/XIDT/blob/master/png/06_chris_pvk.png" width=600>
 
-<img src="https://github.com/udexon/XIDT/blob/master/png/07_chris_decrypt.png" width=600>
+6. Chris reimport his own public and private keys saved on the stack earlier.
 
 <img src="https://github.com/udexon/XIDT/blob/master/png/07_chris_imkey.png" width=600>
+
+<img src="https://github.com/udexon/XIDT/blob/master/png/06_chris_pvk.png" width=600>
+
+
+7. Chris decrypts the message with his own private key (PVKC).
+
+<img src="https://github.com/udexon/XIDT/blob/master/png/07_chris_decrypt.png" width=600>
