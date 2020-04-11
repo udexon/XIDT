@@ -1,3 +1,7 @@
+We suppose the concept of ID-less transactions is both a novel procedure and yet has many links to the long history of cryptography, perhaps predating electronic computers.
+
+In this article, we shall illustrate one of the most fundamental, if not the most fundamental operation that can be performed with ID-less transaction, called "Guess-a-Secret-Phrase" (GASP), which readers may compare to various legends concerning cryptography, and could be used as a building block for more sophiticated operations.
+
 <img src="https://github.com/udexon/XIDT/blob/master/png/01_start.png" width=600>
 
 https://github.com/udexon/XIDT/blob/master/png/02_S.js
