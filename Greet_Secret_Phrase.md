@@ -31,13 +31,15 @@ Alice and Chris then examine the stack which contains the results of executing t
 
 https://github.com/udexon/XIDT/blob/master/png/02_S.js
 
-In the file above, we can see that there are 3 items on the stack:
+In the file above, we can see that there are 3 items on the stack in Alice's browser console:
 
-`0`: Chris JSON string, containing Chris' public key (PBKC).
+`0`: Chris' JSON string, containing Chris' public key (PBKC).
 
 `1`: Alice's public and private key pairs (stored as an JavaScript object).
 
 `2`: Alice's JSON string, containing Alice's public key (PBKA).
+
+Similar items exist in the stack in Chris' browser console.
 
 <img src="https://github.com/udexon/XIDT/blob/master/png/02_init_user.png" width=600>
 
