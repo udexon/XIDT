@@ -31,6 +31,14 @@ Alice and Chris then examine the stack which contains the results of executing t
 
 https://github.com/udexon/XIDT/blob/master/png/02_S.js
 
+In the file above, we can see that there are 3 items on the stack:
+
+`0`: Chris JSON string, containing Chris' public key (PBKC).
+
+`1`: Alice's public and private key pairs (stored as an JavaScript object).
+
+`2`: Alice's JSON string, containing Alice's public key (PBKA).
+
 <img src="https://github.com/udexon/XIDT/blob/master/png/02_init_user.png" width=600>
 
 3. Chris imports public key of Alice (PBKA) and encrypts a secret phrase ("chris_love_cookie"), and sends the encrypted message to Alice.
