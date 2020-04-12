@@ -10,6 +10,12 @@ We believe many communities worldwide would have folk legends similar this of Ch
 
 In this example, we use 2 tabs of Firefox browser to simulate two persons -- Alice and Chris.
 
+The source code this example can be found [here](https://github.com/udexon/XIDT/tree/master/XIDT). We assume to have basic knowledge of running apache2 or any other web server, and install node modules, and run the websocket server with the following command:
+
+```
+node server.js
+```
+
 1. Each of Alice and Chris loads a web page, which contains JavaScript libraries for RSA encryption and WebSocket messaging:
 
 http://localhost/XIDT/client.html
