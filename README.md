@@ -21,11 +21,9 @@ The Unix User ID convention, based on symmetric cryptography, has shaped perhaps
 3. [ ID-less Transactions Demo Source Code ](https://github.com/udexon/XIDT/tree/master/XIDT)
 
 
-#### A new type of blockchain based on ID-less transactions
+#### A New Type of Blockchain based on ID-less Transactions
 
-- Use temporary user ID TUID for convenient short hand, usable amongst small cluster, record changes of key pairs, like blockchain, may change tuid too. Conventional user ID CUID cannot be changed. TUID can.
-
-1. The chain of key pairs and TUID by a user can be used to uniquely identify a user, similar to blockchain, but more flexible and fundamental.
+- The chain of key pairs and TUID (temporary user ID) by a user can be used to uniquely identify a user, similar to blockchain, but more flexible and fundamental, as TUID may be changed by a user any time arbitrarily, and there is no centralized body to manage them.
 
 This can be used for international money transfer with multiple currencies including cryptocurrencies, and also can be used for online tipping. 
 
@@ -34,6 +32,10 @@ This leads to a novel and interesting mode of identification -- asymmetric ident
 We believe this is an unprecedented invention in the history of laws, finance and computing, and would have huge consequences in many areas of human activities.
 
 On the other hand, much like conventional blockchain hardware wallet, the owner of the device thatkeeps the chain of key pairs (public and private) and TUID may claim the identity.
+
+- Temporary User ID (TUID) can be used as a convenient short hand, amongst small cluster of users, much like nicknames in many online chat system. 
+
+The changes of key pairs and TUID can be recorded by other users in communications with a particular user. In contrast, conventional user ID (CUID) in Unix like systems cannot be changed.
 
 
 #### International Money Transfer (including Cryptocurrencies) using XIDT
@@ -44,19 +46,20 @@ Sender A should broadcast his country (her) and bank name, and recipient B's cou
 
 Agents can recognize A and B by TUID (I_AM) and PBK history.
 
-2. Introduce guarantor between 2 parties. e.g. A G C, C G D, D G B.
+2. Introduce guarantor between 2 parties:
+- e.g. A G C, C G D, D G B.
 
-- Recipient must deposit amount greater than received funds with guarantor, in case of default.
+- Recipient (Agents) must deposit amount greater than received funds with guarantor, in case of default.
 
 - Creating markets for guarantors and agents.
 
 - Breaking down conventional roles that can only be performed by institutions to individual. Greater competition. Lower costs.
 
-Agents and guarantors can build up track records without revealing identity. Each may have multiple identities, just like one person own many companies. Identity is defined by chain of TUID and key pairs. 
+Agents and Guarantors can build up track records without revealing identity. Each may have multiple identities, just like one person own many companies. Identity is defined by chain of TUID and key pairs. 
 
 Guarantors can be registered companies in offshore territories.
 
-To consumers, emphasize ability to track agents despite being ID-less. They want reputation and foolproof. Just like shared economy app, users can become agents easily in XIDT. Hence its vitality to grow. 
+To consumers,  despite being ID-less, agents' performance can be tracked using the chain of key pairs and TUI. This ensures agent's reputation and the transactions are foolproof. Just like shared economy app, users can become agents easily in XIDT. Hence its vitality and potential to grow. 
 
 
 #### Future Plans
