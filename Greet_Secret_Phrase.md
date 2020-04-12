@@ -18,16 +18,16 @@ http://localhost/XIDT/client.html
 
 Most of the input and output will be performed in the browser consoles, shown on the right side of the screenshot.
 
-2. Alice and Chris execute a user initialisation script, respectively:
+2. Alice and Chris execute a user initialisation script in the browser console, respectively:
 
 ```js
-F("Alice iu:")
+Alice: F("Alice iu:")
 ```
 ```js
-F("Chris iu:")
+Chris: F("Chris iu:")
 ```
 
-(We shall leave the detailed explanations for the Phos script to [another article (here)](https://github.com/udexon/GOEHDOM/blob/master/PMSM.md), just to not clutter this entry level article.)
+(We shall leave the detailed explanations for the Phos script and stack machine to [another article (here)](https://github.com/udexon/GOEHDOM/blob/master/PMSM.md), just to not clutter this entry level article.)
 
 Alice and Chris then examine the stack which contains the results of executing the script, as shown in the link and screenshot below:
 
@@ -52,6 +52,18 @@ In this simple example, we merely copied a websocket broadcast example from else
  ```
 
 3. Chris imports public key of Alice (PBKA) and encrypts a secret phrase ("chris_love_cookie"), and sends the encrypted message to Alice.
+
+```
+F("jd: pbk ix: imkey: .")
+F("chris_loves_cookies ecr: wss:")
+
+// jd: JSON.parse(), inherited from PHP json_decode(), input is top of stack (TOS)
+// pbk ix: pick item with index pbk, ie. public key
+// imkey: import key (works for both public key or private key)
+// ecr: encrypt TOS
+// wss: send message via web socket
+```
+
 
 <img src="https://github.com/udexon/XIDT/blob/master/png/03_chris_encrypt.png" width=600>
 
