@@ -45,6 +45,12 @@ Similar items exist in the stack in Chris' browser console.
 
 <img src="https://github.com/udexon/XIDT/blob/master/png/02_init_user.png" width=600>
 
+In this simple example, we merely copied a websocket broadcast example from elsewhere (all clients will receive the same message, including the sender). The crucial modification we made was line 22 in [`client.js`](https://github.com/udexon/XIDT/blob/master/XIDT/client.js), where the received message is pushed on to the stack:
+
+```js
+ S.push(event.data);
+ ```
+
 3. Chris imports public key of Alice (PBKA) and encrypts a secret phrase ("chris_love_cookie"), and sends the encrypted message to Alice.
 
 <img src="https://github.com/udexon/XIDT/blob/master/png/03_chris_encrypt.png" width=600>
@@ -73,6 +79,6 @@ Similar items exist in the stack in Chris' browser console.
 
 
 
-7. Chris decrypts the message with his own private key (PVKC).
+7. Chris decrypts the message with his own private key (PVKC). The result is shown by examining the stack object (array) `S`, where the top of stack (TOS) (last element in the array) is the decrypted secret phrase `chris_loves_cookies`.
 
 <img src="https://github.com/udexon/XIDT/blob/master/png/07_chris_decrypt.png" width=600>
