@@ -20,6 +20,8 @@ The Unix User ID convention, based on symmetric cryptography, has shaped perhaps
 
 3. [ ID-less Transactions Demo Source Code ](https://github.com/udexon/XIDT/tree/master/XIDT)
 
+4. [ International Money Transfer (including Cryptocurrencies) and Online Tipping ](https://github.com/udexon/EMYL/blob/master/E003_Online_Tipping.md)
+
 
 #### A New Type of Blockchain based on ID-less Transactions
 
