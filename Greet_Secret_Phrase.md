@@ -53,7 +53,7 @@ In this simple example, we merely copied a websocket broadcast example from else
 
 3. Chris imports public key of Alice (PBKA) and encrypts a secret phrase ("chris_love_cookie"), and sends the encrypted message to Alice.
 
-```
+```js
 F("jd: pbk ix: imkey: .")
 F("chris_loves_cookies ecr: wss:")
 
@@ -74,15 +74,31 @@ F("chris_loves_cookies ecr: wss:")
 
 4. Alice decrypts the message using her own private key (PVKA).
 
+```js
+F("dcr:")
+```
+
 <img src="https://github.com/udexon/XIDT/blob/master/png/04_alice_decrypt.png" width=600>
 
 
 5. Alice imports public key of Chris (PBKC) to encrypt the same message and sends it back to Chris.
 
+```js
+F("3 pick: jd: pbk ix: imkey: .")
+
+// 3 pick: pick 3rd item below top of stack, duplicate it and push it at the top of stack
+```
+
 <img src="https://github.com/udexon/XIDT/blob/master/png/05_alice_encrypt.png" width=600>
 
 
 6. Chris reimports his own public and private keys saved on the stack earlier.
+
+```js
+F("3 pick: pbk ix: imkey: pvk ix: imkey: .")
+
+// . pops remaining object containing pbk/pvk
+```
 
 <img src="https://github.com/udexon/XIDT/blob/master/png/06_chris_pvk.png" width=600>
 
@@ -90,7 +106,10 @@ F("chris_loves_cookies ecr: wss:")
 
 
 
-
 7. Chris decrypts the message with his own private key (PVKC). The result is shown by examining the stack object (array) `S`, where the top of stack (TOS) (last element in the array) is the decrypted secret phrase `chris_loves_cookies`.
+
+```js
+F("dcr:")
+```
 
 <img src="https://github.com/udexon/XIDT/blob/master/png/07_chris_decrypt.png" width=600>
