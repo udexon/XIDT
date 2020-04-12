@@ -1,5 +1,12 @@
 ## XIDT: ID-less Transactions
 
+- A new type of decentralized authentication system based on asymmetric cryptography, where users may change their nicknames and key pairs anytime arbitrarily, guaranteeing absolute privacy and accountability via chain of nicknames and key pairs, simultaneously.
+
+[Paul Graham](http://www.paulgraham.com/bio.html) [twitted](https://twitter.com/paulg/status/1189517338925764608?s=20) on 30 October 2019:
+
+- The web is 25 years old, and signing up for and paying for things is still broken. Why do you have to create an account and make up a password? Why do you have to type in a number off a card in your pocket? There is a big opportunity here that will seem obvious in retrospect.
+
+
 #### Free Software Revolution 2.0
 
 If ___Free Software Revolution 1.0___ is the creation of GNU Linux tools essentially _CLONING_ proprietary Unix functionalities, and the subsequent development that created the Internet and mobile infrastructure that we have today, we shall define ___Free Software Revolution 2.0___ as free software programmers  _CLONING_ existing mobile and Internet platforms owned by MAGAF (Microsoft Apple Google Amazon Facebook) and other tech giants, to create a ___Cloudless Computing___ platform that are ___owned by EVERYONE___, not single monolith faceless corporations. 
