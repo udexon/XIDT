@@ -2,7 +2,7 @@
 
 #### Free Software Revolution 2.0
 
-If Free Software Revolution 1.0 is the creation of GNU Linux tools and the subsequent development that created the Internet and mobile infrastructure that we have today, we shall define Free Software Revolution as free software programmers  CLONING existing mobile and Internet platforms owned by MAGAF (Microsoft Apple Google Amazon Facebook) and other tech giants, to create a ___Cloudless Computing___ platform that are owned by EVERYONE, not single monolith faceless corporations. 
+If ___Free Software Revolution 1.0___ is the creation of GNU Linux tools essentially _CLONING_ proprietary Unix functionalities, and the subsequent development that created the Internet and mobile infrastructure that we have today, we shall define ___Free Software Revolution 2.0___ as free software programmers  _CLONING_ existing mobile and Internet platforms owned by MAGAF (Microsoft Apple Google Amazon Facebook) and other tech giants, to create a ___Cloudless Computing___ platform that are ___owned by EVERYONE___, not single monolith faceless corporations. 
 
 [___Metashellet___](https://github.com/udexon/Metashellet) and ID-less transactions are the core technologies that will give rise to Cloudless Computing, and to realize Free Software Revolution 2.0.
 
