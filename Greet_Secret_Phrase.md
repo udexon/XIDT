@@ -8,9 +8,9 @@ We believe many communities worldwide would have folk legends similar this of Ch
 
 - Agents of secret societies would greet each other with secret phrases, thus authenticating their identities.
 
-In this example, we use 2 tabs of Firefox browser to simulate two persons -- Alice and Chris.
+In this example, we use 2 tabs of Firefox browser to simulate two persons -- Alice and Chris -- communicating via websocket.
 
-The source code this example can be found [here](https://github.com/udexon/XIDT/tree/master/XIDT). We assume to have basic knowledge of running apache2 or any other web server, and install node modules, and run the websocket server with the following command:
+The source code this example can be found [here](https://github.com/udexon/XIDT/tree/master/XIDT). We assume to have basic knowledge of running apache2 or any other web server, and installing node modules. Start by running the websocket server with the following command:
 
 ```
 node server.js
