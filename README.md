@@ -4,7 +4,7 @@
 
 [Paul Graham](http://www.paulgraham.com/bio.html) [twitted](https://twitter.com/paulg/status/1189517338925764608?s=20) on 30 October 2019:
 
-- The web is 25 years old, and signing up for and paying for things is still broken. Why do you have to create an account and make up a password? Why do you have to type in a number off a card in your pocket? There is a big opportunity here that will seem obvious in retrospect.
+- _The web is 25 years old, and signing up for and paying for things is still broken. Why do you have to create an account and make up a password? Why do you have to type in a number off a card in your pocket? There is a big opportunity here that will seem obvious in retrospect._
 
 
 #### Free Software Revolution 2.0
