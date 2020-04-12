@@ -27,7 +27,7 @@ F("Alice iu:")
 F("Chris iu:")
 ```
 
-(We shall leave the detailed explanations for the Phos script to another article, just to not clutter this entry level article.)
+(We shall leave the detailed explanations for the Phos script to [another article (here)](https://github.com/udexon/GOEHDOM/blob/master/PMSM.md), just to not clutter this entry level article.)
 
 Alice and Chris then examine the stack which contains the results of executing the script, as shown in the link and screenshot below:
 
