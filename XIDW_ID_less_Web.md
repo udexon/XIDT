@@ -16,4 +16,29 @@ In hindsight, we find it difficult to explain what had gone wrong in the history
 
 Let's look at XIDWeb with practical examples first, so that we have something concrete as the foundation of our discussions.
 
+1. Our story begins with Travis Tidwell's JSEncrypt, a "pure" (??) JavaScript library that is compatible with PHP OpenSSL asymmetric cryptographic encryption:
 
+- https://github.com/travist/jsencrypt
+
+
+2. We will incorporate JSEncrypt (JSE) into our own "raw and plain" JavaScript and PHP website:
+
+- http://phos.epizy.com/smashlet/
+
+
+3. We set up a local copy of the website above for development:
+
+- http://localhost/PHP/phos/
+
+
+```js
+F("nxhr: phos_ajax.php xo: xsqrh: dummy_string")
+F('a b c 9 3 + ON ECHO bv: doremi ssid: sstart: sstat: sid: init: ossl: putkps: pbk: ec:',"2je: xsend:")
+
+F("responseText ix: imkey:")
+
+F("hello_phos_0419 jecr:")
+F("nxhr: phos_ajax.php xo: xsqrh: swap:") 
+F('a b c 9 3 + ON ECHO bv: 0 si: 1 i: sstart: . getkps: dcr: ec:',"2je: xsend:") 
+
+```
