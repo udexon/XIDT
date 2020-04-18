@@ -32,13 +32,34 @@ Let's look at XIDWeb with practical examples first, so that we have something co
 
 
 ```js
-F("nxhr: phos_ajax.php xo: xsqrh: dummy_string")
+F("nxhr: phos_ajax.php xo: xsqrh: dummy_string") // set up AJAX connection to phos_ajax.php
 F('a b c 9 3 + ON ECHO bv: doremi ssid: sstart: sstat: sid: init: ossl: putkps: pbk: ec:',"2je: xsend:")
+// initialize PHP OpenSSL keys with ossl:
+// pbk: obtains public key
+// ec: echo result to front end
 
-F("responseText ix: imkey:")
+F("responseText ix: imkey:") // Front end: extract public key, import public key to JSEncrypt object
 
-F("hello_phos_0419 jecr:")
-F("nxhr: phos_ajax.php xo: xsqrh: swap:") 
+F("hello_phos_0419 jecr:")   // encrypt text: hello_phos_0419
+F("nxhr: phos_ajax.php xo: xsqrh: swap:")  // set up AJAX connection again
 F('a b c 9 3 + ON ECHO bv: 0 si: 1 i: sstart: . getkps: dcr: ec:',"2je: xsend:") 
+// getkps: retrieve OpenSSL keys from $_SESSION
+// dcr: decrypt using PHP OpenSSL function
 
+// 2je: pack 2 objects (strings) at the top of stack as JSON
+// xsend: send the JSON to back end
+```
+
+The funny looking code above is our version of Reverse Polish Notation derived from the Forth programming language, called Phos. Each of the function word with a colon ':' suffix is mapped to a JavaScript function (in the front end) or a PHP function (in the back end), operating like a stack machine, where non-function tokens (words) are pushed onto the stack, and results from executing function words are pushed onto the stack for further processing.
+
+Readers may be unfamiliar with this mode of operation. However, stack machines exist everywhere from the interpretter engines of JavaScript and PHP to all other stack machine based programming languages such as Java, Python, etc. down to the very proprietary stack engine cores of microprocessors such as Intel, ARM, etc.
+
+What the fragment of Phos code did above were explained in the comments.
+
+Note that the back end commands are stored as a string, sent from front end to the back end:
+
+```js
+F('a b c 9 3 + ON ECHO bv: 0 si: 1 i: sstart: . getkps: dcr: ec:',"2je: xsend:") 
+// Back end commands: 'a b c 9 3 + ON ECHO bv: 0 si: 1 i: sstart: . getkps: dcr: ec:'
+// Front end commands: "2je: xsend:" 
 ```
