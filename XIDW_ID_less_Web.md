@@ -1,4 +1,4 @@
-### XIDW: ID-less Web &mdash; One Small Step Towards Trekonomics
+### XIDWeb: ID-less Web &mdash; One Small Step Towards Trekonomics
 
 ```
 <joke>
@@ -12,4 +12,8 @@ One is always tempted to make a joke that may offend the most powerful groups of
 </joke>
 ```
 
-In hindsight, we find it difficult to explain what had gone wrong in the history of computing, that XIDW (ID-less Web) was not developed immediately following SSH. This may go down in history as one of the biggest technology mysteries as well as opportunities that will benefit literally all mankind.
+In hindsight, we find it difficult to explain what had gone wrong in the history of computing, that XIDWeb (pronounced "XID Web", ID-less Web) was not developed immediately following SSH. This may go down in history as one of the biggest technology mysteries as well as opportunities that will benefit literally all mankind.
+
+Let's look at XIDWeb with practical examples first, so that we have something concrete as the foundation of our discussions.
+
+
