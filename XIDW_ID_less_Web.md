@@ -50,7 +50,7 @@ F('a b c 9 3 + ON ECHO bv: 0 si: 1 i: sstart: . getkps: dcr: ec:',"2je: xsend:")
 // xsend: send the JSON to back end
 ```
 
-The funny looking code above is our version of Reverse Polish Notation derived from the Forth programming language, called Phos. Each of the function word with a colon ':' suffix is mapped to a JavaScript function (in the front end) or a PHP function (in the back end), operating like a stack machine, where non-function tokens (words) are pushed onto the stack, and results from executing function words are pushed onto the stack for further processing.
+The funny looking code above is our version of Reverse Polish Notation derived from the Forth programming language, called Phos. Each of the function word with a colon ':' suffix is mapped to a JavaScript function (in the front end) or a PHP function (in the back end), executed in a stack machine, where non-function tokens (words) are pushed onto the stack, and results from executing function words are pushed onto the stack for further processing.
 
 Readers may be unfamiliar with this mode of operation. However, stack machines exist everywhere from the interpretter engines of JavaScript and PHP to all other stack machine based programming languages such as Java, Python, etc. down to the very proprietary stack engine cores of microprocessors such as Intel, ARM, etc.
 
