@@ -4,13 +4,22 @@ The modern banking system, where an account holder is required to reproduce his 
 
 In both the banks and Unix style systems, the user identity management is centralized, resulting in an asymmetric or unbalanced relationship between the user and the system. 
 
-No theoretical or practical alternative solution has been established to overcome this situation. We believe ours is an unprecedented attempt, thus enabling us to claim that it is a big step towards an idealistic Star Trek society, where personal freedom is enshrined. 
+_To the best of our knowledge, no theoretical or practical alternative solution has been established to overcome this situation. We believe ours is an unprecedented attempt, thus enabling us to claim that it is a big step towards an idealistic Star Trek society, where personal freedom is enshrined._
 
 In hindsight, talks of personal freedom by Western commentators sounded totally hollow, as figures like Martin Luther King or even Noam Chomsky did not seem to demonstrate knowledge concerning the banking tyranny as described above. 
 
-To be fair, "thought leaders" like King and Chomsky were active during the Cold War, where the _ALLERGED_ threat of Communism is much greater than that of Capitalism, which has grown to be less appealing in recent years, especially in the light of China's economic growth and repeated financial crises, believed to be manipulated by uber bankers.
+To be fair, "thought leaders" like King and Chomsky were active during the Cold War, where the _ALLERGED_ threats of Communism were much greater than that of Capitalism, which has grown to be less appealing in recent years, especially in the light of China's economic growth and repeated financial crises, believed to be manipulated by uber bankers in the Western world.
 
-In short, the belief that tax and fiat money being the twin masters of all evils is gaining greater popularity by the day, only to be limited by the rate of death of old people who believe otherwise.
+In short, the belief that _tax and fiat money being the twin masters of all evils_ is gaining greater popularity by the day, only to be limited by the rate of death of old people who believe otherwise.
+
+In this respect, XIDWeb or XIDT (ID-less Transactions) overcome the banking tyranny at its roots.
+
+As there are many types of applications that XIDWeb can be deployed in, we want to focus on one particular area which has a short implementation period and a large user base:
+
+- https://github.com/udexon/EMYL/blob/master/E003_Online_Tipping.md
+
+- https://github.com/udexon/Metashellet/blob/master/Beyond_Rosetta.md#project-e-international-money-transfer-including-cryptocurrencies-and-online-tipping
+
 
 - ([Source](https://github.com/udexon/Metashellet/blob/master/Beyond_Rosetta.md#conclusions)) _The Free Software Revolution 2.0 might just be the threshold that will usher in the Star Trek society. If the year 2020 A.D. (C.E.) is marked by Trump and Coronavirus and the biggest global economic depression since Wordl War II, then perhaps Free Software Revolution 2.0 may unleash several essential elements that will shape a new era, much like how national currencies, automobiles, air travel and Internet shaped the post WWII period._
 
@@ -28,11 +37,6 @@ https://en.wikipedia.org/wiki/I2P
 
 Compared to dark web related projects such as Tor and I2P, which primarily focus on transport layer anonymity, XIDWeb is radical paradigm shift at the application layer.
 
-As there are many types of applications that XIDWeb can be deployed in, we want to focus on one particular area which has a short implementation period and a large user base:
-
-https://github.com/udexon/EMYL/blob/master/E003_Online_Tipping.md
-
-https://github.com/udexon/Metashellet/blob/master/Beyond_Rosetta.md#project-e-international-money-transfer-including-cryptocurrencies-and-online-tipping
 
 ID-less Web
 
