@@ -35,6 +35,13 @@ Unfortunately, Confuciansim can only be understood if you have learned the Chine
 
 Confucianism is required to explain the fundamental philosophy behind XIDWeb &mdash; a term that may seem to have many contradictions in itself.
 
+To put it simply, Confucianism advocates Communism to help the poorest &mdahs; by giving them land to farm &mdash; and create competition via Capitalism to make life even better.
+
+It is so simple that it bewilders any Chinese that the greatest minds in the West simply cannot reconcile the two &mdash; perhaps due to the "them vs. us", "good vs. evil" mentality originating from Christianity.
+
+耕者有其田 鬼叫你穷顶硬上
+
+As Chinese move overseas, a greater portion of them lived in towns and cities instead of rural farms. Restaurants became the safety net and training ground for the poorest and least educated, from where they bootstrap.
 
 - ([Source](https://github.com/udexon/Metashellet/blob/master/Beyond_Rosetta.md#conclusions)) _The Free Software Revolution 2.0 might just be the threshold that will usher in the Star Trek society. If the year 2020 A.D. (C.E.) is marked by Trump and Coronavirus and the biggest global economic depression since Wordl War II, then perhaps Free Software Revolution 2.0 may unleash several essential elements that will shape a new era, much like how national currencies, automobiles, air travel and Internet shaped the post WWII period._
 
