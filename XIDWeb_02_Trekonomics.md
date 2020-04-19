@@ -1,4 +1,4 @@
-### Part II: XIDWeb (ID-less Web) and Trekonomics
+## Part II: XIDWeb (ID-less Web) and Trekonomics
 
 The modern banking system, where an account holder is required to reproduce his or her signature for verification by a teller, is very much analogous to how a user is required to enter his or her own password, to be verified by the authentication module of a Unix style user system, or similar derivatives, especially websites. 
 
@@ -27,7 +27,7 @@ This also creates the much need source of income to sustain other XIDWeb project
 As to whether we are able to make it, it really depends on one thing: whether we are able to recruit 10 collaborators (voluntary or incentivized) to complete the XIDOT prototype on a part time basis over the next 6 months.
 
 
-#### Communism, Capitalism & Confucianism
+### Communism, Capitalism & Confucianism
 
 Communism and Capitalism are not mutually exclusive, as demonstrated by Confucianism in China and overseas Chinese communities.
 
