@@ -1,5 +1,17 @@
 ### Part II: XIDWeb (ID-less Web) and Trekonomics
 
+The modern banking system, where an account holder is required to reproduce his or her signature for verification by a teller, is very much analogous to how a user is required to enter his or her own password, to be verified by the authentication module of a Unix style user system, or similar derivatives, especially websites. 
+
+In both the banks and Unix style systems, the user identity management is centralized, resulting in an asymmetric or unbalanced relationship between the user and the system. 
+
+No theoretical or practical alternative solution has been established to overcome this situation. We believe ours is an unprecedented attempt, thus enabling us to claim that it is a big step towards an idealistic Star Trek society, where personal freedom is enshrined. 
+
+In hindsight, talks of personal freedom by Western commentators sounded totally hollow, as figures like Martin Luther King or even Noam Chomsky did not seem to demonstrate knowledge concerning the banking tyranny as described above. 
+
+To be fair, "thought leaders" like King and Chomsky were active during the Cold War, where the _ALLERGED_ threat of Communism is much greater than that of Capitalism, which has grown to be less appealing in recent years, especially in the light of China's economic growth and repeated financial crises, believed to be manipulated by uber bankers.
+
+In short, the belief that tax and fiat money being the twin masters of all evils is gaining greater popularity by the day, only to be limited by the rate of death of old people who believe otherwise.
+
 - ([Source](https://github.com/udexon/Metashellet/blob/master/Beyond_Rosetta.md#conclusions)) _The Free Software Revolution 2.0 might just be the threshold that will usher in the Star Trek society. If the year 2020 A.D. (C.E.) is marked by Trump and Coronavirus and the biggest global economic depression since Wordl War II, then perhaps Free Software Revolution 2.0 may unleash several essential elements that will shape a new era, much like how national currencies, automobiles, air travel and Internet shaped the post WWII period._
 
 Liberté, égalité, fraternité, ID-less
