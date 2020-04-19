@@ -35,7 +35,7 @@ Unfortunately, Confuciansim can only be understood if you have learned the Chine
 
 Confucianism is required to explain the fundamental philosophy behind XIDWeb &mdash; a term that may seem to have many contradictions in itself.
 
-To put it simply, Confucianism advocates Communism to help the poorest &mdahs; by giving them land to farm &mdash; and create competition via Capitalism to make life even better.
+To put it simply, Confucianism advocates Communism to help the poorest &mdash; by giving them land to farm &mdash; and create competition via Capitalism to make life even better.
 
 It is so simple that it bewilders any Chinese that the greatest minds in the West simply cannot reconcile the two &mdash; perhaps due to the "them vs. us", "good vs. evil" mentality originating from Christianity.
 
