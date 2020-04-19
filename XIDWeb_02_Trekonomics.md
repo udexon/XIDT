@@ -1,15 +1,26 @@
 ### Part II: XIDWeb (ID-less Web) and Trekonomics
 
-- ([Source](https://github.com/udexon/Metashellet/blob/master/Beyond_Rosetta.md#conclusions)) The Free Software Revolution 2.0 might just be the threshold that will usher in the Star Trek society. If the year 2020 A.D. (C.E.) is marked by Trump and Coronavirus and the biggest global economic depression since Wordl War II, then perhaps Free Software Revolution 2.0 may unleash several essential elements that will shape a new era, much like how national currencies, automobiles, air travel and Internet shaped the post WWII period.
-
-Liberte  Fraternite
+- ([Source](https://github.com/udexon/Metashellet/blob/master/Beyond_Rosetta.md#conclusions)) _The Free Software Revolution 2.0 might just be the threshold that will usher in the Star Trek society. If the year 2020 A.D. (C.E.) is marked by Trump and Coronavirus and the biggest global economic depression since Wordl War II, then perhaps Free Software Revolution 2.0 may unleash several essential elements that will shape a new era, much like how national currencies, automobiles, air travel and Internet shaped the post WWII period._
 
 Liberté, égalité, fraternité, ID-less
 
 Liberté, égalité, fraternité, anonymat
 
-
 https://en.m.wikipedia.org/wiki/Trekonomics
+
+https://en.wikipedia.org/wiki/Dark_web
+
+https://en.wikipedia.org/wiki/Tor_(anonymity_network)
+
+https://en.wikipedia.org/wiki/I2P
+
+Compared to dark web related projects such as Tor and I2P, which primarily focus on transport layer anonymity, XIDWeb is radical paradigm shift at the application layer.
+
+As there are many types of applications that XIDWeb can be deployed in, we want to focus on one particular area which has a short implementation period and a large user base:
+
+https://github.com/udexon/EMYL/blob/master/E003_Online_Tipping.md
+
+https://github.com/udexon/Metashellet/blob/master/Beyond_Rosetta.md#project-e-international-money-transfer-including-cryptocurrencies-and-online-tipping
 
 ID-less Web
 
