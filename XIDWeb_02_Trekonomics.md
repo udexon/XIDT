@@ -27,6 +27,15 @@ This also creates the much need source of income to sustain other XIDWeb project
 As to whether we are able to make it, it really depends on one thing: whether we are able to recruit 10 collaborators (voluntary or incentivized) to complete the XIDOT prototype on a part time basis over the next 6 months.
 
 
+#### Communism, Capitalism & Confucianism
+
+Communism and Capitalism are not mutually exclusive, as demonstrated by Confucianism in China and overseas Chinese communities.
+
+Unfortunately, Confuciansim can only be understood if you have learned the Chinese language and lived in China or with the overseas Chinese communities.
+
+Confucianism is required to explain the fundamental philosophy behind XIDWeb &mdash; a term that may seem to have many contradictions in itself.
+
+
 - ([Source](https://github.com/udexon/Metashellet/blob/master/Beyond_Rosetta.md#conclusions)) _The Free Software Revolution 2.0 might just be the threshold that will usher in the Star Trek society. If the year 2020 A.D. (C.E.) is marked by Trump and Coronavirus and the biggest global economic depression since Wordl War II, then perhaps Free Software Revolution 2.0 may unleash several essential elements that will shape a new era, much like how national currencies, automobiles, air travel and Internet shaped the post WWII period._
 
 Liberté, égalité, fraternité, ID-less
