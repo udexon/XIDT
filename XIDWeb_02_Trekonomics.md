@@ -20,6 +20,12 @@ As there are many types of applications that XIDWeb can be deployed in, we want 
 
 - https://github.com/udexon/Metashellet/blob/master/Beyond_Rosetta.md#project-e-international-money-transfer-including-cryptocurrencies-and-online-tipping
 
+XIDWeb aims to beat the banking tyranny at its own game &mdash; Capitalism. We subscribe to the definition of Capitalism as a mode of free market competition, without kleptocracy that selectively bails out preferred assets during crises. XIDWeb aims to start small &mdash; ID-less Online Tipping (XIDOT). We are _NOT_ going after super billionaires &mdash; we just want to enrich and enable net users: allowing them to earn one penny at a time, from anyone in the world, which would be impossible or impractical to police.
+
+This also creates the much need source of income to sustain other XIDWeb projects in the long term.
+
+As to whether we are able to make it, it really depends on one thing: whether we are able to recruit 10 collaborators (voluntary or incentivized) to complete the XIDOT prototype on a part time basis over the next 6 months.
+
 
 - ([Source](https://github.com/udexon/Metashellet/blob/master/Beyond_Rosetta.md#conclusions)) _The Free Software Revolution 2.0 might just be the threshold that will usher in the Star Trek society. If the year 2020 A.D. (C.E.) is marked by Trump and Coronavirus and the biggest global economic depression since Wordl War II, then perhaps Free Software Revolution 2.0 may unleash several essential elements that will shape a new era, much like how national currencies, automobiles, air travel and Internet shaped the post WWII period._
 
