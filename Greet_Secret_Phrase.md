@@ -1,4 +1,4 @@
-### "Greet with a Secret Phrase" (GASP) Protocol
+## "Greet with a Secret Phrase" (GASP) Cryptographic Protocol
 
 We suppose the concept of ID-less transactions is both a novel procedure and yet has many links to the long history of cryptography, perhaps predating electronic computers.
 
